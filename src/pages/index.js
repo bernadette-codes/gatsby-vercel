@@ -19,7 +19,7 @@ function Index() {
         <title>Gatsby + Vercel</title>
       </Helmet>
       <h1>Hello World!</h1>
-      <h2>Gatsby + Vercel demo site</h2>
+      <h2>Gatsby + Vercel demo site for Arke</h2>
       <br />
       <h3>The date today is:</h3>
       <p>{date ? date : "Loading date..."}</p>
